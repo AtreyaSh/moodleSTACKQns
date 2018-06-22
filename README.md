@@ -16,8 +16,12 @@ In order to view and test these questions, we need to do the following:
    
 3. Install `STACK` for Moodle following instructions here: https://moodle.org/plugins/qtype_stack
 
-   Run the key health-checks to ensure all components are working well. Key functioning features are the CAS and Gnuplot.
+   Run the key health-checks to ensure all components are working well. 
+   
+   Key functioning features are the CAS and Gnuplot.
    
 4. Once `Moodle` and `STACK` are working well. Create a course within Moodle and navigate to the local `Question Bank`.
 
-   In the `Question Bank`, find the import option and select the import file type as Moodle `.xml`. Select the `STACK_Export_1_2_3.xml` file to be imported. This should provide the list of questions for you to try out!
+   In the `Question Bank`, find the import option and select the import file type as Moodle `.xml`. Select the `STACK_Export_1_2_3.xml` file to be imported. 
+
+This should provide the list of questions for you to try out!
