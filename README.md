@@ -9,6 +9,8 @@ In order to view and test these questions, we need to do the following:
 1. Install `Moodle` following instructions here: 
 
    https://docs.moodle.org/35/en/Step-by-step_Installation_Guide_for_Ubuntu 
+   
+   Note: This can be a long and complicated process
 
 2. Install `maxima` on your system, since the STACK plug-in requires `maxima` as the Computation Algebra System (CAS).
 
