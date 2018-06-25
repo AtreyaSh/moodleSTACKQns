@@ -12,7 +12,7 @@ In order to view and test these questions, we need to do the following:
    
    Note: This can be a long and complicated process
 
-2. Install `maxima` on your system, since the STACK plug-in requires `maxima` as the Computation Algebra System (CAS).
+2. Install `maxima` on your system, since the STACK plug-in requires `maxima` as the Computater Algebra System (CAS).
 
    `$ sudo apt-get install maxima`
    
