@@ -1,6 +1,6 @@
 # STACK Mathematics Questions for Moodle
 
-This is a collection of moodle calculus questions using the STACK plug-in within Moodle versions 3.3+.
+This is a collection of moodle calculus questions using the STACK plug-in with Moodle versions 3.3+.
 
 ## Guide for Ubuntu Linux OS
 
