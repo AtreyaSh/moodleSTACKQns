@@ -18,6 +18,8 @@ In order to view and test these questions, we need to do the following:
    
    Note: This installation of `maxima` only functions in the terminal. If a GUI is wished, one can install the `wxmaxima` package.
    
+   `$ sudo apt-get install wxmaxima`
+   
 3. Install `STACK` for Moodle following instructions here: 
  
    https://moodle.org/plugins/qtype_stack
