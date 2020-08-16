@@ -2,7 +2,7 @@
 
 This is a collection of moodle calculus questions using the STACK plug-in with Moodle versions 3.3+.
 
-## Guide for Ubuntu Linux OS
+## Guide
 
 In order to view and test these questions, we need to do the following:
 
