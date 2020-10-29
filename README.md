@@ -14,11 +14,15 @@ In order to view and test these questions, we need to do the following:
 
 2. Install `maxima` on your system, since the STACK plug-in requires `maxima` as the Computer Algebra System (CAS).
 
-   `$ sudo apt-get install maxima`
+   ```shell
+   $ sudo apt-get install maxima
+   ```
    
    Note: This installation of `maxima` only functions in the terminal. If a GUI is wished, one can install the `wxmaxima` package.
    
-   `$ sudo apt-get install wxmaxima`
+   ```shell
+   $ sudo apt-get install wxmaxima
+   ```
    
 3. Install `STACK` for Moodle following instructions here: 
  
