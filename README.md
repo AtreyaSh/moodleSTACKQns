@@ -1,6 +1,6 @@
 # STACK Mathematics Questions for Moodle
 
-This is a collection of `Moodle` university-level calculus questions using the STACK plug-in with Moodle versions 3.3+.
+This is a collection of university-level calculus questions using the STACK plugin with `Moodle` versions 3.3+.
 
 ## Guide for Debian Distributions
 
